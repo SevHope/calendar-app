@@ -1,0 +1,30 @@
+.App-logo {
+  text-align: center;
+  justify-content: center;
+  align-items: center;;
+}
+
+header {
+  font-size: 40px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.submitButton {
+  background-color: #8D7FC7;
+  ;
+}
+
+.App {
+  min-height: 100vh;
+  width: 339px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
